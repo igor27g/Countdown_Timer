@@ -21,7 +21,7 @@ My project is a Countdown Timer. In this project, I use HTML5, CSS3 and JavaScri
 * JavaScript (ECMAScript6) 
 
 ## Demo
-Click on this link: h https://igor27g.github.io/Countdown_Timer/ 
+Click on this link: https://igor27g.github.io/Countdown_Timer/ 
 
 
 ## Status
